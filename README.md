@@ -1,6 +1,5 @@
 # Bachelor Thesis - Basic application for integration and visual exploration of open biomedical networks
-##FI MUNI
-###Tamara Babálová
+https://is.muni.cz/auth/th/b9179/
 
 **Included files**
 1. dbms.dump
